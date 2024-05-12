@@ -1,2 +1,5 @@
 # mm_unpacker
-MicroMachineNes chr ram unpacker 
+
+chr ram распаковщик данных для игры микромашинки на денди
+
+![результат](/result.png)
